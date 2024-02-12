@@ -1,1 +1,1 @@
-# Pytest Trips and Tricks 
+# Pytest Tips and Tricks 
